@@ -1,6 +1,6 @@
 This is a collection of TAS (Tool Assisted Speedrun/Superplay) scripts to be used with the game Glyphs.
 
-The game can be downloaded from here: https://vortex-bros.itch.io/glyphs
+The game can be downloaded from here: https://vortex-bros.itch.io/glyphs  
 The game will also be getting a Steam release in May 2025 here: https://store.steampowered.com/app/3616230/GLYPHS/
 
 These scripts are not for traditional TAS given some quirks of the game (more details below) so they are designed to intergrate with a human user who must "tap in" when the TAS reaches a point it cannot do alone (It will automatically pause the game or open the map to let you know it needs help) 
@@ -17,7 +17,7 @@ Instructions here are shown for Windows opperating systems but scripts should be
 Prerequisites:
 - Python installed (https://www.python.org/downloads/)
 - The python keyboard package (on windows in command prompt type "py -m pip install keyboard")
-
+- 
 
 Running:
 - Either open the script with python from file explorer or (recomended) in windows command line type (py path/to/your/script.py).
