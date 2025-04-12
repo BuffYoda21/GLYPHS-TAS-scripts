@@ -92,13 +92,13 @@ keyboard.press('space')
 time.sleep(.02)
 keyboard.release('space')
 
-# rooms 9-10
+# room 9
 time.sleep(1.5)
 keyboard.release('a')
 time.sleep(.95)
 keyboard.press('d')
 
-# room 11
+# room 10
 time.sleep(5.5)
 keyboard.press('space')
 time.sleep(.02)
@@ -108,7 +108,7 @@ keyboard.press('space')
 time.sleep(.02)
 keyboard.release('space')
 
-# room 12-13
+# room 11-13
 time.sleep(6.65)
 keyboard.release('d')
 keyboard.press('a')
@@ -116,7 +116,7 @@ time.sleep(1.5)
 keyboard.press('space')
 time.sleep(.02)
 keyboard.release('space')
-time.sleep(2)
+time.sleep(3)
 keyboard.release('a')
 
 # End 
@@ -124,5 +124,5 @@ keyboard.press('esc')
 keyboard.press('p')
 time.sleep(.02)
 keyboard.release('p')
-print("Finished Executing. Fight Construct manually and position agaist the left boss door" \
+print("Finished Executing. Fight Construct manually and position agaist the right boss door" \
 "right after the final blow and run the next script")
