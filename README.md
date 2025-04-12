@@ -17,7 +17,7 @@ Instructions here are shown for Windows opperating systems but scripts should be
 Prerequisites:
 - Python installed (https://www.python.org/downloads/)
 - The python keyboard package (on windows in command prompt type "py -m pip install keyboard")
-- 
+
 
 Running:
 - Either open the script with python from file explorer or (recomended) in windows command line type (py path/to/your/script.py).
